@@ -11,9 +11,16 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      //...
+      // 开启封面
       coverpage: true,
-      onlyCover: true
+      // 开启仅封面（无法向下滑动）
+      onlyCover: true,
+      // 开启自定义侧边栏
+      loadSidebar: true,
+      // 显示目录
+      subMaxLevel: 3,
+      // 文档标题，会显示在侧边栏顶部
+      name: "fs233 API"
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>

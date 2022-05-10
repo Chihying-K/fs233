@@ -3,7 +3,7 @@
 
 !> 目前还是测试版本，接口较少，待后续更新——2022年5月8日
 
-!> 如果你发现哪张图片被Ban（挂了），请复制图片链接并发送邮件到`hi@fsyume.com`
+!> 如果你发现哪张图片被Ban（挂了），请复制图片链接并发送邮件到`cat-assist@foxmail.com`
 
 ## 前言
 1. 所有图片均来自Pixiv或Twitter，版权归原作者所有
@@ -30,11 +30,17 @@ http://i.fs233.cc/setu?type=json
 ### 图床数据
 
 非R18张数
+
+- 请求方式`GET`
+
 ```http
 https://i.fs233.cc/num
 ```
 
 R18张数
+
+- 请求方式`GET`
+
 ```http
 https://i.fs233.cc/numr18
 ```
