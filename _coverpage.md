@@ -6,6 +6,6 @@
 
 > 一个兴趣使然的随机涩图API
 
-[开始使用](setu)
+[Quick Start](setu)
 
 ![](https://tva2.sinaimg.cn/large/00795p2wly1h20wagdirrj31hc0u0n5t.jpg)
