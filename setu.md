@@ -16,7 +16,7 @@
 
 <div style='color: red'>
 
-!> 用爱发电腾讯云，一月只有105w调用，API调用限制5QPS，不要频繁调用哦
+!> 用爱发电腾讯云，一月只有105w调用，API调用限制5QPS，不要频繁调用哦~
 
 </div>
 
@@ -25,6 +25,8 @@
 ### 图片
 直接返回图片
 - 请求方式：`GET`
+
+
 ```http
 http://i.fs233.cc/setu
 ```
@@ -32,8 +34,10 @@ http://i.fs233.cc/setu
 返回`JSON`格式
 - 请求方式：`GET`
 - 参数
-    - type=json
-    - num={返回的图片张数} 【可以为空】
+    - `type = json`
+    - `num = { 返回的图片张数 }` 【可以为空】
+
+
 ```http
 http://i.fs233.cc/setu?type=json&num=10
 ```

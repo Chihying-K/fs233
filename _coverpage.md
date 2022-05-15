@@ -2,7 +2,7 @@
 
 <!-- ![logo](_media/icon.svg) -->
 
-# fs233.cc <small>v0.1 Beta</small>
+# fs233.cc <small>v0.2 Beta</small>
 
 > 一个兴趣使然的随机涩图API
 
