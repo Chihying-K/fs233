@@ -31,8 +31,11 @@ http://i.fs233.cc/setu
 
 返回`JSON`格式
 - 请求方式：`GET`
+- 参数
+    - type=json
+    - num={返回的图片张数} 【可以为空】
 ```http
-http://i.fs233.cc/setu?type=json
+http://i.fs233.cc/setu?type=json&num=10
 ```
 ---
 ### 图床数据
