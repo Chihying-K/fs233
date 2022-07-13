@@ -13,6 +13,10 @@
 
 ---
 
+## API展示页面
+
+https://pic.fs233.cc
+
 ## 关于API调用
 
 <div style='color: red'>
@@ -22,6 +26,8 @@
 </div>
 
 ## API
+
+!> 全部支持HTTP/HTTPS及GET,POST请求
 
 ### 图片
 #### 直接返回图片
